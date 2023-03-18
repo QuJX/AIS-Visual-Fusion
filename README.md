@@ -15,4 +15,4 @@ Pass Code: mipc
 
 If the MVV Dataset is used please cite it as: Jingxiang Qu, Ryan Wen Liu, Yu Guo, Yuxu Lu, Jianlong Su, Peizheng Li, "Improving maritime traffic surveillance in inland waterways using the robust fusion of AIS and visual data", Ocean Engineering, 2023.
 
-For more dataset about vessel detection the simultaneouse data about video and AIS data fusion, please see our newest work: https://github.com/gy65896/FVessel
+For more dataset about vessel detection the simultaneous data about video and AIS data fusion, please see our newest work: https://github.com/gy65896/FVessel
